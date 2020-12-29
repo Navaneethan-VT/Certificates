@@ -1,2 +1,2 @@
 # Certificates
-Certificates obtined from Courses and Projects
+Certificates obtained from Courses and Projects
