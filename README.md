@@ -1,2 +1,2 @@
 # Certificates
-Certificates obtained from Courses and Projects
+<h1>Certificates obtained from Courses and Projects</h1>
